@@ -638,6 +638,17 @@
 				}
 			]
 		},
+{
+			"name": "MongoDB  Build",
+			"details": "https://github.com/cybersonic/sublime_mongodb_build",
+			"labels": ["build"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/cybersonic/sublime_mongodb_build/tree/master"
+				}
+			]
+		},
 		{
 			"name": "Monokai Blueberry Color Scheme",
 			"details": "https://github.com/ctruett/monokai-blueberry",
